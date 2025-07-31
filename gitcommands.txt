@@ -9,4 +9,5 @@ git remote add origin https://github.com/Satyaranjan-07/github-for-devops.git
 git add filename 
 git commit -m filenmae
 git push origin master
+git pull origin master
     
