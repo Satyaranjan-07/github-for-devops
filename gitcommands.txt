@@ -1,12 +1,12 @@
-git commit -m"testing files"
- 
-   git config --global user.name "satya"
-   git config --global --list
-   git commit
-   git commit -m "i am satya"
-   git status
-   rm testing.py
-   git restore testing.py
-   git remote add origin https://github.com/Satyaranjan-07/github-for-devops.git
-   git push origin master
+git commit -m"testing files" 
+git config --global user.name "satya"
+git config --global --list
+git commit   git commit -m "i am satya"
+git status
+rm testing.py
+git restore testing.py
+git remote add origin https://github.com/Satyaranjan-07/github-for-devops.git
+git add filename 
+git commit -m filenmae
+git push origin master
     
